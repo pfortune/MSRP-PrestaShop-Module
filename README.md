@@ -1,2 +1,2 @@
-# MSRP-PrestaShop-Module
-Show the original MSRP on the product page to show how much a customer is saving.
+# RRP-PrestaShop-Module
+Show the recommended retail price on the product page striked out if it is greater than the price shown to highlight how much a customer is saving.
